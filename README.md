@@ -7,8 +7,10 @@
 
 I hope to use my experience in the ambulance to inform my computational research and contribute to life-saving technology.
 
+<!---
 <img src="https://github.com/alex1xu/alex1xu/assets/65417426/3cf9678d-c115-4c1c-ab23-892c637a3e6a" width="400">
 <img src="https://github.com/alex1xu/alex1xu/assets/65417426/63f477bd-211b-445f-93b7-fe1abf40e9b4" width="400">
+-->
 
 ## Stuff that keeps me busy
 
